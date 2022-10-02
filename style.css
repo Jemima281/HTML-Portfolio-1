@@ -1,0 +1,15 @@
+h1{
+    color: orange;
+    border: solid;
+}
+
+
+.header{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-around;
+    border: solid;
+}
+.codeLink{
+    display: flex;
+}
